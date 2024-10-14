@@ -1,2 +1,2 @@
-# This is an `<h1>` header, which is the largest
+# Este es un`<h1>` titulo, mas largo
 ## este es otro titulo mas pequeño
